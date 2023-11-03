@@ -17,5 +17,5 @@ def run(num_a, num_b):
 a = 1
 b = 1
 x = square(a)
-y = func2(b)
+y = bananas(candy)
 run(x, y)
