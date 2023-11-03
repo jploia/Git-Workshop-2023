@@ -6,17 +6,17 @@ def func1(num_a):
     # placeholder return, replace with your own function
     return -1
 
-def func2(num_b):
+def bananas(candy):
     # placeholder return, replace with your own function
-    return -1
+    return candy * 2
 
 # both people should modify this function
-def func3(num_a, num_b):
+def fish_lover(num_a, num_b):
     # do something with inputs and print something
-    print("placeholder output")
+    print("hi")
 
 a = 1
 b = 1
 x = func1(a)
-y = func2(b)
-func3(x, y)
+y = bananas(b)
+fish_lover(x, y)
